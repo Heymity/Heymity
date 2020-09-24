@@ -12,16 +12,14 @@
 
 -----
 
-<p>
+![](https://github-readme-stats.vercel.app/api?username=heymity&show_icons=true&theme=dark)
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=heymity&layout=compact&theme=dark)
+<!--p>
 <p style="float: left"><img align="left" src="https://github-readme-stats.vercel.app/api?username=heymity&show_icons=true&theme=dark" alt="heymity" /></p>
-
 <p style="float: right">&nbsp;<img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=heymity&layout=compact&theme=dark" alt="heymity" /></p>
-</p>  
-<br/><br/><br/><br/><br/><br/>
+</p-->  
 
-
-
-<p align="center">&nbsp;
+<p align="center">
 <!--<a href="https://twitter.com/insert later" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg" alt="insert later" height="30" width="30" /></a>
 -->
 <a href="https://stackoverflow.com/users/14157363" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/stackoverflow.svg" alt="14157363" height="30" width="30" /></a>

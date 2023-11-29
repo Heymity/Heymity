@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Gabriel Pasquale R Scavone</h1>
-<h3 align="center">I'm a Brazilian computer science student and enthusiast, making games and websites</h3>
+<h3 align="center">I'm a Brazilian computer science/engineering student and enthusiast, making games and totally unrelated stuff</h3>
 
 - 🔭 I’m currently working on
 
